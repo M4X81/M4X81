@@ -8,7 +8,7 @@
  <img src="https://komarev.com/ghpvc/?username=M4X81" alt="M4X81" />
 
 
-- 🔭 I’m currently working on [destruccion_oficial](https://destruccion.vercel.app)
+<!-- - 🔭 I’m currently working on [destruccion_oficial](https://destruccion.vercel.app)-->
 
 - 🌱 I’m currently learning **TypeScript**
 
