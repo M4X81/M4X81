@@ -1,8 +1,6 @@
-<!-- RAINBOW LINE TOP -->
-<img src="" width="100%">
+<img src="https://github.com/M4X81/M4X81/blob/main/line-neon.gif" width="100%" heigth= 5%>
 
-<!-- GIF HEADER -->
-<img src="">
+<img src="https://github.com/M4X81/M4X81/blob/main/artificial-intelligence-3706562_1920.jpg">
 
 <h1 align="center">Hi 👋, I'm M4x81</h1>
 
@@ -27,8 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4x81&show_icons=true&locale=en" alt="m4x81" /></p>
 
-<!-- GIF FOOTER -->
-<img src="">
+<img src="https://github.com/M4X81/M4X81/blob/main/artificial-intelligence-3706562_1920.jpg">
 
-<!-- RAINBOW LINE BOT -->
-<img src="">
+<img src="https://github.com/M4X81/M4X81/blob/main/line-neon.gif">
