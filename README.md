@@ -6,7 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm M4x81</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/M4X81?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/M4X81?style=social) ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors) <img src="https://komarev.com/ghpvc/?username=M4X81" alt="M4X81" />
+![GitHub followers](https://img.shields.io/github/followers/M4X81?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/M4X81?style=social) ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4X81.M4X81&left_color=red&right_color=green&left_text=HelloVisitors)
+ <img src="https://komarev.com/ghpvc/?username=M4X81" alt="M4X81" />
 
 
 - 🔭 I’m currently working on [destruccion_oficial](https://destruccion.vercel.app)
