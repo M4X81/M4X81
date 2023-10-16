@@ -23,7 +23,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4x81" alt="m4x81" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4x81&show_icons=true&locale=en&layout=compact" alt="m4x81" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4x81&show_icons=true&locale=en" alt="m4x81" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4x81&show_icons=false&locale=en" alt="m4x81" /></p>
 
 <img src="https://github.com/M4X81/M4X81/blob/main/artificial-intelligence-3706562_19202.jpg">
 
