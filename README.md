@@ -12,8 +12,17 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-<!--<h3 align="left">Connect with me:</h3>-->
-<p align="left">
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/maxi-sternhein">
+			<img src="https://icons8.com/icon/4kDkRk06HHwS/gmail-logo"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+
+	
+      </div>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
