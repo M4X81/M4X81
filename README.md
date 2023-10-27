@@ -19,7 +19,7 @@
 	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>		
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/M4X81">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px ;"  target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+        <a style="margin-left: 10px ;"  target="_blank" href="mailto:maxi0062011@gmail.com">
 	<img src="icons8-gmail-logo-100.png" style="width:50px; margin-top: 50px;"></a>	
       </div>
 </p>
