@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **maxi0062011@gmail.com**
-
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
