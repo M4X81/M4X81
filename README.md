@@ -12,17 +12,16 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-<p align="center">
+<p align="left">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/maxi-sternhein">
-			<img src="https://icons8.com/icon/4kDkRk06HHwS/gmail-logo"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>		
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/M4X81">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-
-	
+        <a style="margin-left: 10px ;"  target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+	<img src="icons8-gmail-logo-100.png" style="width:50px; margin-top: 50px;"></a>	
       </div>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
