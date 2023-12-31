@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working on [destruccion_oficial](https://destruccion.vercel.app)-->
 
-- 🌱 I’m currently learning **TypeScript**
+
 
 <p align="left">
 
