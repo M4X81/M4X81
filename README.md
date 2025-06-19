@@ -15,7 +15,7 @@
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px ;"  target="_blank" href="mailto:maxi0062011@gmail.com">
+        <a style="margin-left: 10px ;"  target="_blank" href="mailto:maxi.dev.projects@gmail.com">
 	<img src="icons8-gmail-logo-100.png" style="width:50px; margin-top: 50px;"></a>	
       </div>
 </p>
