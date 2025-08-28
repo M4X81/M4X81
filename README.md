@@ -56,11 +56,6 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M4X81&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="M4X81 trophies"/>
-</p>
-
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M4X81&show_icons=true&locale=en" alt="M4X81" />
