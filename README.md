@@ -35,6 +35,7 @@
  </p>
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4x81" alt="m4x81" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=m4x81)](https://github.com/m4x81/github-profile-trophy)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4x81&show_icons=true&locale=en&layout=compact" alt="m4x81" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M4X81&show_icons=true&locale=en" alt="m4x81" /></p>
