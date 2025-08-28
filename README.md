@@ -50,10 +50,10 @@
   </a> 
 </p>
 
-<h3 align="left">🏆 GitHub Trophies</h3>
+<!--<h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=M4X81&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="M4X81 trophies"/>
-</p>
+</p>-->
 
 <h3 align="left">📊 GitHub Stats</h3>
 
